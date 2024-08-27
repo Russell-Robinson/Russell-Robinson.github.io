@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="2023 Tesla_Incident-report-analysis.pdf">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Russell-Robinson/Russell-Robinson.github.io/blob/b408d70e8299af4236ea1e122d2a50a1a727543f/2023%20Tesla_Incident-report-analysis.pdf">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
