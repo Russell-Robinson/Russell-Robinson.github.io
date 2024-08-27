@@ -1,14 +1,10 @@
 # Hello, I'm Russell Robinson
 <a href="https://www.linkedin.com/in/russell-robinson-a54ba6112/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Hello, I'm Russell, a passionate cybersecurity enthusiast. While my journey is in its early stages, I've had the opportunity to engage in a variety of enriching experiences, including certifications, internships, and challenges, which have collectively shaped my journey.## Objective
 
-## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+This portfolio offers a glimpse into my professional journey, emphasizing my key achievements and commitment to cybersecurity. Whether I'm developing innovative solutions, analyzing data-driven insights, or tackling complex challenges, I bring a mix of creativity, technical expertise, and a relentless drive for continuous learning to every project.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
