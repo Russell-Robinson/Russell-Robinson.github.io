@@ -25,7 +25,6 @@ This portfolio offers a glimpse into my professional journey, emphasizing my key
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     
-</div>
 
 </div>
 
