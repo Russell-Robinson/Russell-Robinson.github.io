@@ -33,16 +33,18 @@ This portfolio offers a glimpse into my professional journey, emphasizing my key
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 <a href="https://www.elastic.co" target="_blank">
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-### Certifications
-
 <div>
+
+ ### Certifications
+ <div>
+ <a href="#" title="Expectancy: December 2024">Expected 12/12/24</a><div>
     <a href="https://www.comptia.com" target="_blank">    
         <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+" />
     </a>
 </div>
 
+
 <div>
-    <a href="#" title="Expectancy: December 2024">Expected 12/12/24</a>
 </div>
 
 <div>
@@ -54,5 +56,5 @@ This portfolio offers a glimpse into my professional journey, emphasizing my key
         <img src="https://github.com/user-attachments/assets/3fa38ee4-c427-4d59-bc40-f3b04666bf40" alt="Purdue Global Cybersecurity Fundamentals Badge" style="width:150px; height:auto;" />
     </a>
     <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="369e8e1c-0278-42d3-b899-7ea8b697782d" data-share-badge-host="https://www.credly.com"></div>
-    <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</div>
+    
+
