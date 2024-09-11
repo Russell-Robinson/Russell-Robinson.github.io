@@ -19,18 +19,25 @@ This portfolio offers a glimpse into my professional journey, emphasizing my key
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<a href="https://www.wireshark.org" target="_blank">
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark Badge">
+</a>
+
     
 
 </div>
 
 ### SIEM
 <div>
-    
+<a href="https://www.splunk.com" target="_blank">    
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<a href="https://www.elastic.co" target="_blank">
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
 <div>
+<a href="https://www.comptia.com" target="_blank">    
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
+ <a href="#" title="Expectancy: December 2024">Expected 12/12/24</a>
