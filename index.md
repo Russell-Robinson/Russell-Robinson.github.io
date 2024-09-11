@@ -57,7 +57,6 @@ This portfolio offers a glimpse into my professional journey, emphasizing my key
 
 <div>
 </div>
-
 <div>
     <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Badge" />
 </div>
