@@ -52,7 +52,7 @@ This portfolio offers a glimpse into my professional journey, emphasizing my key
     </a>
 
 
-</div>
+
 
 
 <div>
