@@ -50,7 +50,7 @@ This portfolio offers a glimpse into my professional journey, emphasizing my key
 
 <div>
     
-<a href="https://www.credly.com" target="_blank">
+<a href="https://https://www.credly.com/badges/369e8e1c-0278-42d3-b899-7ea8b697782d/public_url" target="_blank">
     <img src="https://github.com/user-attachments/assets/3fa38ee4-c427-4d59-bc40-f3b04666bf40" alt="Purdue Global Cybersecurity Fundamentals Badge" style="width:150px; height:auto;" />
 </a>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="369e8e1c-0278-42d3-b899-7ea8b697782d" data-share-badge-host="https://www.credly.com"></div>
