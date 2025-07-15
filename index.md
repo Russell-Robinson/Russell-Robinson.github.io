@@ -92,34 +92,34 @@ This portfolio offers a glimpse into my professional journey, emphasizing my key
 
   <h3>Network</h3>
   <ul>
-    
-       <a href="https://www.wireshark.org" target="_blank">
+    <div>       
+      <a href="https://www.wireshark.org" target="_blank">
         <img
           src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"
           alt="Wireshark Badge"
         />
       </a>
-    </li>
+    </div>
   </ul>
 
   <h3>SIEM</h3>
   <ul>
-    <li>
+    <div>
       <a href="https://www.splunk.com" target="_blank">
         <img
           src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white"
           alt="Splunk Badge"
         />
       </a>
-    </li>
-    <li>
+    </div>
+    <div>
       <a href="https://www.elastic.co" target="_blank">
         <img
           src="https://img.shields.io/badge/-Elastic-005571?style=for-the-badge&logo=Elastic&logoColor=white"
           alt="Elastic Badge"
         />
       </a>
-    </li>
+    </div>
   </ul>
 </section>
 
@@ -129,27 +129,27 @@ This portfolio offers a glimpse into my professional journey, emphasizing my key
 
   <h3>In Progress <small>(Expected August 27, 2025)</small></h3>
   <ul>
-    <li>
+    <div>
       <a href="https://www.comptia.org" target="_blank">
         <img
           src="https://img.shields.io/badge/-Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white"
           alt="CompTIA Security+ Badge"
         />
       </a>
-    </li>
+    </div>
   </ul>
 
   <h3>Certificates</h3>
   <ul>
-    <li>
+    <div>
       <a href="https://www.google.com" target="_blank">
         <img
           src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?style=for-the-badge&logo=Google&logoColor=white"
           alt="Google Cybersecurity Badge"
         />
       </a>
-    </li>
-    <li>
+    </div>
+    <div>
       <!-- Purdue Global Badge via Credly embed -->
       <div>
         <img
@@ -164,6 +164,6 @@ This portfolio offers a glimpse into my professional journey, emphasizing my key
         data-share-badge-id="369e8e1c-0278-42d3-b899-7ea8b697782d"
         data-share-badge-host="https://www.credly.com">
       </div>
-    </li>
+    </div>
   </ul>
 </section>
