@@ -93,7 +93,7 @@ This portfolio offers a glimpse into my professional journey, emphasizing my key
   <h3>Network</h3>
   <ul>
     <li>
-      <a href="https://www.wireshark.org" target="_blank">
+       href="https://www.wireshark.org" target="_blank">
         <img
           src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"
           alt="Wireshark Badge"
